@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NangunooriAbhinav
 - 👀 Interested in everything abt coding :D
-- 🌱 Currently learning JS.
+- 🌱 Currently learning JS and python.
 - 📫 How to reach me-my insta-@04.abhi_. 
 <!--- - 💞️ I’m looking to collaborate on ... --->
 <!---
